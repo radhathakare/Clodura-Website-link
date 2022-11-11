@@ -1,0 +1,11 @@
+.remove-underline li a, .navbar_button, .navbar_drawer_button {
+    text-decoration: none;
+}
+
+.widthset {
+    width: unset !important;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
